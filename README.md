@@ -1,2 +1,2 @@
 # newtwork-security-firewall
-NETWORK SECURITY LAB USING PFSENSE FIREWALL FOR NETWORK SEGMENTATION, DOS TRAFFIC SIMULATION, FIREWALL ENFORCEMENT AND TRAFFIC MONITORING
+Network security lab using pfsense firewall for network segmatation, DOS Traffic Simulation, firewall enforcement and traffic monitoring
